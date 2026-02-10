@@ -1,6 +1,8 @@
-import org.nashtech.assignment.ScalableBloom;
-import org.nashtech.assignment.ScalableCMS;
-import org.nashtech.assignment.ScalableHLL;
+package org.nashtech.assignment.loadTest;
+
+import org.nashtech.assignment.bloomFilter.ScalableBloom;
+import org.nashtech.assignment.countMinSketches.ScalableCMS;
+import org.nashtech.assignment.hyperLogLog.ScalableHLL;
 
 import java.util.UUID;
 

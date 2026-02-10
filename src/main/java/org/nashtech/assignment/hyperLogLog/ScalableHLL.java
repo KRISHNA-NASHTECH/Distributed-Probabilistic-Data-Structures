@@ -1,4 +1,4 @@
-package org.nashtech.assignment;
+package org.nashtech.assignment.hyperLogLog;
 import com.google.common.hash.Hashing;
 import java.nio.charset.StandardCharsets;
 
